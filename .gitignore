@@ -1,8 +1,7 @@
 hello
 
-
-# Created by https://www.gitignore.io/api/intellij
-# Edit at https://www.gitignore.io/?templates=intellij
+# Created by https://www.toptal.com/developers/gitignore/api/intellij
+# Edit at https://www.toptal.com/developers/gitignore?templates=intellij
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
@@ -38,8 +37,6 @@ hello
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
-# *.ipr
 
 # CMake
 cmake-build-*/
@@ -83,13 +80,6 @@ fabric.properties
 # *.ipr
 
 # Sonarlint plugin
-.idea/**/sonarlint/
+.idea/sonarlint
 
-# SonarQube Plugin
-.idea/**/sonarIssues.xml
-
-# Markdown Navigator plugin
-.idea/**/markdown-navigator.xml
-.idea/**/markdown-navigator/
-
-# End of https://www.gitignore.io/api/intellij
+# End of https://www.toptal.com/developers/gitignore/api/intellij
